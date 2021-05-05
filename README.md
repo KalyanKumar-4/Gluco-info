@@ -1,6 +1,4 @@
-# program-Glucose-level
-        ![image](https://user-images.githubusercontent.com/56481727/117141372-1314dc80-adcc-11eb-84d3-efa0d0888f6e.png)
-
+Program on Glucose level
 Table of Contents
 
 .About the project
